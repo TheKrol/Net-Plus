@@ -11,10 +11,14 @@
             "id": "a3ea0204b0893991",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Address Translation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Address Translation"
             }
           }
         ]
@@ -167,15 +171,17 @@
   },
   "active": "a3ea0204b0893991",
   "lastOpenFiles": [
+    "Pasted image 20241024203819.png",
+    "Pasted image 20241008203335.png",
+    "Internet Protocol.md",
+    "Introduction to Application Layer.md",
+    "IPV6.md",
+    "OSI Model.md",
     "Virtualized Network.md",
     "Topology.md",
     "Storage Area Network.md",
-    "OSI Model.md",
     "Network Time Protocol.md",
     "Network Architectures.md",
-    "IPV6.md",
-    "Introduction to Application Layer.md",
-    "Internet Protocol.md",
     "DNS Records.md",
     "DHCP.md",
     "Connectors Types.md",
