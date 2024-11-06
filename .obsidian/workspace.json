@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "ac2123dfdbce69d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7174e9836d1a7dee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ea0204b0893991",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4e1504a21f62562",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca382022b8b4fa48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad4814423f171afd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e955b9b1e9dc4107",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8e607cadd8586679",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3c2447551df2b5d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f671a1be72ce977",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72f725fdc7514690",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "039b9e8f7d04d356",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cae6ab20c4ea2a52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "21b1cf4728b3bf1f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "d9bbd51f78554e9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a3ea0204b0893991",
+  "lastOpenFiles": [
+    "Virtualized Network.md",
+    "Topology.md",
+    "Storage Area Network.md",
+    "OSI Model.md",
+    "Network Time Protocol.md",
+    "Network Architectures.md",
+    "IPV6.md",
+    "Introduction to Application Layer.md",
+    "Internet Protocol.md",
+    "DNS Records.md",
+    "DHCP.md",
+    "Connectors Types.md",
+    "Cloud Models.md",
+    "Address Translation.md"
+  ]
+}
