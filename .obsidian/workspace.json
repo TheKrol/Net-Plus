@@ -163,14 +163,12 @@
             "id": "e1026f5b0dea2745",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Straight-Through and Crossover Cables.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Pasted image 20241114184555.png"
               },
-              "icon": "lucide-file",
-              "title": "Straight-Through and Crossover Cables"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241114184555"
             }
           }
         ],
@@ -322,13 +320,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1026f5b0dea2745",
+  "active": "ad4814423f171afd",
   "lastOpenFiles": [
-    "Pasted image 20241114184802.png",
-    "Pasted image 20241114184644.png",
-    "Pasted image 20241114184555.png",
-    "Interface Configurations.md",
     "Straight-Through and Crossover Cables.md",
+    "Assets/Pasted image 20241114184802.png",
+    "Assets/Pasted image 20241114184644.png",
+    "Assets/Pasted image 20241114184555.png",
+    "Interface Configurations.md",
     "Spanning Tree Protocol.md",
     "Assets/Pasted image 20241114182645.png",
     "VLANs and Trunking.md",
@@ -344,7 +342,6 @@
     "Networking Devices.md",
     "Assets/Pasted image 20241114134646.png",
     "Designing the Cloud.md",
-    "Assets/Pasted image 20241114130221.png",
     "Introduction to Application Layer.md",
     "DHCP.md",
     "DNS Records.md",
