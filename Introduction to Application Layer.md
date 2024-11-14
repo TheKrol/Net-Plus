@@ -1,4 +1,4 @@
-
+	
 ## Application Layer Services
 
 A server is making a dns request to get the information about a name like www.cbtnuggets.com UDP is the protocol used which also includes source and destination IP address. It will use a high number port number for the source S: 52,768 and always port D: 53 

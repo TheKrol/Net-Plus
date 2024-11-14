@@ -5,7 +5,6 @@ Functions the same as IPV4. At the network layer it has mask. It is 128 bits lon
 
 This is an example of an IPV6 address.
 2045:3421:0A59:0041:0000:0000:104F:7248 Like with IPV4 there is a host and network. We also use a mask, but we only use the / notation so /64 would slip the host and network in half. We still have DNS HTTP and HTTPS (Application) TCP/UDP (Transport)
-
 ## Address types
 
 Global Unicast Address This address is routable on the internet.  2xxx - 3xxx is a global ipv6 address. They will also have a link-local address. It is only usable on the exact link that it has. It is used for local communication. It starts with FE80: You can package computers on the multicast address. Those address start with FF02::1 Cast address is FF02::2 -(Router)

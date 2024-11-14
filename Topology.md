@@ -1,7 +1,6 @@
 ## 9th video
 
 We are going to talk about topology,
-
 ## 10th video
 
 ### Topology
@@ -20,7 +19,6 @@ We put tunnel between two places. (Logical tunnel) Generic Routing encapsulation
 IPsec - Takes every packet and encrypts it before it sends it over.
 
 We can hide IPv6 traffic inside our GRE tunnel so the world will only see IPv4. Need to see the payload to determine if there is IPv6 data.
-
 ## 11th video
 
 ### More Topology
@@ -40,7 +38,6 @@ Headquarter (Site #1) - Could - Site #2 - Site #3 (Not in the same building)
 If Site 2 and Site 3 connect to Site 1 - Hub and Spoke
 If Site 2 and Site 3 also connects - Full Mesh
 Hybrid - Some with Hub and Spoke Others have a Full Mesh
-
 ## 12th video
 
 ### Network Types
